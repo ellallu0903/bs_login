@@ -1,6 +1,6 @@
 ### 預覽：
 
-![Login 🌹](https://i.imgur.com/3xDKMBv.png)
+![Login 🌹](https://i.imgur.com/ZmuAos2.png)
 
 ### DEMO：[Login 🌹](https://ellallu0903.github.io/bs_login/HW_login.html)
 
